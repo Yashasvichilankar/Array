@@ -18,7 +18,6 @@ int c[][]=new int [row][column];
        c[i][j]=a[i][j]+b[i][j];
      }
 }
-
 System.out.println("Addition of the given matrix: ");
 
   for(int i=0;i<row;i++)
