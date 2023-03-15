@@ -25,7 +25,6 @@ System.out.println("Addition of the given matrix: ");
     for(int j=0;j<column;j++)
      {
        System.out.println(c[i][j]+" ");
-
      }
  System.out.println();
   }
